@@ -1,0 +1,295 @@
+[
+  {
+    "id": "ooty",
+    "name": "Ooty",
+    "officialName": "Udhagamandalam",
+    "tagline": "Queen of Nilgiri Hill Stations",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "region": "Nilgiri Hills",
+    "rating": 4.6,
+    "category": "Hill Station",
+    "description": "Ooty (Udhagamandalam) is the premier hill station of South India, located at 2,240 meters in the Nilgiri Hills. Famous for its tea plantations, Eucalyptus forests, misty valleys, historic toy train, and serene lakes.",
+    "estimatedDailyBudget": "₹2,500 / day",
+    "weather": "15°C – 22°C (Pleasant)",
+    "latitude": 11.4102,
+    "longitude": 76.6950,
+    "googleSearchQuery": "Ooty Tamil Nadu",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?w=800&q=80",
+    "popularAttractions": [
+      {
+        "id": "att_ooty_1",
+        "name": "Ooty Lake",
+        "category": "Boating & Nature",
+        "rating": 4.4,
+        "description": "Artificial lake constructed in 1824 by John Sullivan, offering pedal boating and mini train rides.",
+        "ticketPriceStatus": "₹30 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&q=80",
+        "latitude": 11.4011,
+        "longitude": 76.6853
+      },
+      {
+        "id": "att_ooty_2",
+        "name": "Doddabetta Peak",
+        "category": "Viewpoint",
+        "rating": 4.6,
+        "description": "Highest peak in the Nilgiris at 2,637 meters with a telescope house offering 360° views.",
+        "ticketPriceStatus": "₹10 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
+        "latitude": 11.4038,
+        "longitude": 76.7358
+      },
+      {
+        "id": "att_ooty_3",
+        "name": "Government Botanical Garden",
+        "category": "Nature",
+        "rating": 4.5,
+        "description": "Lush 55-hectare terraced garden established in 1848 with rare species and fossil trees.",
+        "ticketPriceStatus": "₹50 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&q=80",
+        "latitude": 11.4182,
+        "longitude": 76.7118
+      },
+      {
+        "id": "att_ooty_4",
+        "name": "Nilgiri Mountain Railway",
+        "category": "Heritage Train",
+        "rating": 4.8,
+        "description": "UNESCO World Heritage steam train winding through bridges and tunnels.",
+        "ticketPriceStatus": "₹200 ticket",
+        "imageUrl": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=800&q=80",
+        "latitude": 11.4070,
+        "longitude": 76.7020
+      }
+    ],
+    "transportInfo": {
+      "railway": "Udhagamandalam Railway Station (Toy Train) / Mettupalayam (47 km)",
+      "airport": "Coimbatore International Airport (88 km)",
+      "bus": "Ooty Central Bus Stand connecting Bengaluru, Mysuru, Chennai",
+      "road": "Well connected via NH181 from Coimbatore / Mysuru"
+    },
+    "safetyInformation": "Safe tourist destination. Drive cautiously on hairpin bends."
+  },
+  {
+    "id": "munnar",
+    "name": "Munnar",
+    "officialName": "Munnar Hill Station",
+    "tagline": "Tea Country of Kerala",
+    "state": "Kerala",
+    "country": "India",
+    "region": "Western Ghats",
+    "rating": 4.7,
+    "category": "Nature",
+    "description": "Munnar is a breathtaking hill station in Kerala's Western Ghats surrounded by rolling tea estate hills, misty valleys, exotic flora, and waterfalls.",
+    "estimatedDailyBudget": "₹2,800 / day",
+    "weather": "14°C – 20°C (Misty)",
+    "latitude": 10.0889,
+    "longitude": 77.0595,
+    "googleSearchQuery": "Munnar Kerala",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?w=800&q=80",
+    "popularAttractions": [
+      {
+        "id": "att_munnar_1",
+        "name": "Eravikulam National Park",
+        "category": "Wildlife & Nature",
+        "rating": 4.7,
+        "description": "Home to the endangered Nilgiri Tahr mountain goat and Neelakurinji flower blooms.",
+        "ticketPriceStatus": "₹200 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?w=800&q=80",
+        "latitude": 10.1500,
+        "longitude": 77.0667
+      },
+      {
+        "id": "att_munnar_2",
+        "name": "Mattupetty Dam",
+        "category": "Nature",
+        "rating": 4.4,
+        "description": "Gravity dam nestled amidst tea gardens with speed boating and elephant viewing.",
+        "ticketPriceStatus": "₹10 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+        "latitude": 10.1064,
+        "longitude": 77.1242
+      },
+      {
+        "id": "att_munnar_3",
+        "name": "Top Station",
+        "category": "Adventure & Viewpoint",
+        "rating": 4.6,
+        "description": "Highest point in Munnar offering panoramic valley views over Tamil Nadu border.",
+        "ticketPriceStatus": "₹20 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+        "latitude": 10.1220,
+        "longitude": 77.2460
+      }
+    ],
+    "transportInfo": {
+      "railway": "Aluva Railway Station (110 km) / Ernakulam (130 km)",
+      "airport": "Cochin International Airport (110 km)",
+      "bus": "KSRTC Bus Depot Munnar connecting Kochi, Madurai, Coimbatore",
+      "road": "Connected via Kochi-Dhanushkodi National Highway (NH85)"
+    },
+    "safetyInformation": "Safe hill station. Foggy conditions early morning and late evening."
+  },
+  {
+    "id": "goa",
+    "name": "Goa",
+    "officialName": "State of Goa",
+    "tagline": "Pearl of the Orient",
+    "state": "Goa",
+    "country": "India",
+    "region": "Konkan Coast",
+    "rating": 4.8,
+    "category": "Beach",
+    "description": "Goa is India's pocket-sized paradise known for sun-kissed beaches, Portuguese colonial architecture, vibrant nightlife, spice plantations, and seafood.",
+    "estimatedDailyBudget": "₹3,500 / day",
+    "weather": "24°C – 32°C (Tropical)",
+    "latitude": 15.2993,
+    "longitude": 74.1240,
+    "googleSearchQuery": "Goa India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800&q=80",
+    "popularAttractions": [
+      {
+        "id": "att_goa_1",
+        "name": "Fort Aguada",
+        "category": "Historical",
+        "rating": 4.6,
+        "description": "17th-century Portuguese fortress and lighthouse overlooking the Arabian Sea.",
+        "ticketPriceStatus": "₹50 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?w=800&q=80"
+      },
+      {
+        "id": "att_goa_2",
+        "name": "Baga Beach",
+        "category": "Beach",
+        "rating": 4.5,
+        "description": "Famous North Goa beach renowned for water sports, beach shacks, and night life.",
+        "ticketPriceStatus": "Free entry",
+        "imageUrl": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800&q=80"
+      },
+      {
+        "id": "att_goa_3",
+        "name": "Dudhsagar Falls",
+        "category": "Adventure",
+        "rating": 4.7,
+        "description": "Four-tiered waterfall on Mandovi River cascading like a sea of white milk.",
+        "ticketPriceStatus": "₹100 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&q=80"
+      }
+    ],
+    "transportInfo": {
+      "railway": "Madgaon (MAO) / Thivim (THVM)",
+      "airport": "Manohar International Airport (MOPA) / Dabolim Airport (GOI)",
+      "bus": "Kadamba Bus Terminals at Panaji, Margao, Mapusa",
+      "road": "Connected via NH66 from Mumbai and Mangaluru"
+    },
+    "safetyInformation": "Follow beach safety flags and swimming advisories."
+  },
+  {
+    "id": "manali",
+    "name": "Manali",
+    "officialName": "Manali Himachal",
+    "tagline": "Valley of the Gods",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "region": "Kullu Valley",
+    "rating": 4.7,
+    "category": "Adventure",
+    "description": "Manali is a high-altitude Himalayan resort town in Himachal Pradesh, famous for snow slopes, paragliding, Hadimba temple, Solang Valley, and Rohtang Pass.",
+    "estimatedDailyBudget": "₹3,200 / day",
+    "weather": "5°C – 18°C (Cool / Snowy)",
+    "latitude": 32.2432,
+    "longitude": 77.1892,
+    "googleSearchQuery": "Manali Himachal Pradesh",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&q=80",
+    "popularAttractions": [
+      {
+        "id": "att_manali_1",
+        "name": "Hadimba Devi Temple",
+        "category": "Historical",
+        "rating": 4.6,
+        "description": "16th-century wooden pagoda cave temple in dense pine forests.",
+        "ticketPriceStatus": "Free entry",
+        "imageUrl": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?w=800&q=80"
+      },
+      {
+        "id": "att_manali_2",
+        "name": "Solang Valley",
+        "category": "Adventure",
+        "rating": 4.7,
+        "description": "World-famous adventure valley for paragliding, zorbing, and winter skiing.",
+        "ticketPriceStatus": "Free entry",
+        "imageUrl": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80"
+      },
+      {
+        "id": "att_manali_3",
+        "name": "Rohtang Pass",
+        "category": "Adventure",
+        "rating": 4.8,
+        "description": "High mountain pass at 3,978m elevation on Pir Panjal Range.",
+        "ticketPriceStatus": "₹550 permit",
+        "imageUrl": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&q=80"
+      }
+    ],
+    "transportInfo": {
+      "railway": "Chandigarh Railway Station (310 km) / Joginder Nagar (165 km)",
+      "airport": "Kullu-Manali Airport at Bhuntar (50 km)",
+      "bus": "HRTC Volvo buses from Delhi (ISBT Kashmiri Gate) / Chandigarh",
+      "road": "Connected via NH21 from Chandigarh and Delhi"
+    },
+    "safetyInformation": "Check snow road clearances and weather alerts during winter."
+  },
+  {
+    "id": "coorg",
+    "name": "Coorg",
+    "officialName": "Kodagu",
+    "tagline": "Scotland of India",
+    "state": "Karnataka",
+    "country": "India",
+    "region": "Western Ghats",
+    "rating": 4.6,
+    "category": "Nature",
+    "description": "Coorg (Kodagu) is a rural district in Karnataka renowned for coffee plantations, spice gardens, misty waterfalls, river camps, and Kodava culture.",
+    "estimatedDailyBudget": "₹2,700 / day",
+    "weather": "16°C – 23°C (Pleasant)",
+    "latitude": 12.4244,
+    "longitude": 75.7382,
+    "googleSearchQuery": "Coorg Karnataka",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&q=80",
+    "popularAttractions": [
+      {
+        "id": "att_coorg_1",
+        "name": "Abbey Falls",
+        "category": "Nature",
+        "rating": 4.5,
+        "description": "Cascading waterfall amidst coffee plantations viewed from hanging bridge.",
+        "ticketPriceStatus": "₹15 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&q=80"
+      },
+      {
+        "id": "att_coorg_2",
+        "name": "Raja's Seat",
+        "category": "Nature",
+        "rating": 4.5,
+        "description": "Sunset viewpoint in Madikeri with manicured flower gardens.",
+        "ticketPriceStatus": "₹10 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80"
+      },
+      {
+        "id": "att_coorg_3",
+        "name": "Dubare Elephant Camp",
+        "category": "Adventure",
+        "rating": 4.4,
+        "description": "Elephant camp on Kaveri riverbank offering bathing and feeding experiences.",
+        "ticketPriceStatus": "₹100 entry",
+        "imageUrl": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800&q=80"
+      }
+    ],
+    "transportInfo": {
+      "railway": "Mysuru Junction (120 km) / Hassan (115 km)",
+      "airport": "Kannur International Airport (90 km) / Mangaluru (140 km)",
+      "bus": "KSRTC buses connecting Mysuru, Bengaluru, Mangaluru",
+      "road": "Connected via State Highway 88 from Mysuru"
+    },
+    "safetyInformation": "Safe rural hill region. Leech protection advised on rainforest treks during monsoon."
+  }
+]
