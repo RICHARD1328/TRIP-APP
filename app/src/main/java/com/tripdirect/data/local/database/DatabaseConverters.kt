@@ -25,4 +25,21 @@ class DatabaseConverters {
             emptyList()
         }
     }
+
+    @TypeConverter
+    fun fromStringList(strings: List<String>?): String {
+        if (strings == null) return "[]"
+        return gson.toJson(strings)
+    }
+
+    @TypeConverter
+    fun toStringList(json: String?): List<String> {
+        if (json.isNullOrBlank()) return emptyList()
+        val type = object : TypeToken<List<String>>() {}.type
+        return try {
+            gson.fromJson(json, type) ?: emptyList()
+        } catch (e: Exception) {
+            emptyList()
+        }
+    }
 }

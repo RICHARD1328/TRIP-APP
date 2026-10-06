@@ -7,22 +7,22 @@ import com.tripdirect.data.model.UserTripSummary
 @Entity(tableName = "trips")
 data class TripEntity(
     @PrimaryKey val id: String,
-    val destination: String,
+    val title: String,
     val dates: String,
     val durationDays: Int,
-    val travelers: Int,
-    val totalCost: Double,
+    val travelersCount: Int,
+    val estimatedBudget: Double,
     val status: String,
     val imageUrl: String? = null
 ) {
     fun toDomainModel(): UserTripSummary {
         return UserTripSummary(
             id = id,
-            destination = destination,
+            title = title,
             dates = dates,
             durationDays = durationDays,
-            travelers = travelers,
-            totalCost = totalCost,
+            travelersCount = travelersCount,
+            estimatedBudget = estimatedBudget,
             status = status
         )
     }
@@ -31,11 +31,11 @@ data class TripEntity(
         fun fromDomainModel(model: UserTripSummary, imageUrl: String? = null): TripEntity {
             return TripEntity(
                 id = model.id,
-                destination = model.destination,
+                title = model.title,
                 dates = model.dates,
                 durationDays = model.durationDays,
-                travelers = model.travelers,
-                totalCost = model.totalCost,
+                travelersCount = model.travelersCount,
+                estimatedBudget = model.estimatedBudget,
                 status = model.status,
                 imageUrl = imageUrl
             )

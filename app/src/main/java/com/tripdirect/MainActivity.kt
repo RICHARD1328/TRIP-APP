@@ -1,0 +1,28 @@
+package com.tripdirect
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
+import androidx.compose.ui.Modifier
+import com.tripdirect.data.network.ApiClient
+import com.tripdirect.navigation.AppNavigation
+import com.tripdirect.theme.TripDirectTheme
+
+class MainActivity : ComponentActivity() {
+  override fun onCreate(savedInstanceState: Bundle?) {
+    super.onCreate(savedInstanceState)
+
+    ApiClient.initialize(applicationContext)
+
+    enableEdgeToEdge()
+    setContent {
+      TripDirectTheme {
+        AppNavigation()
+      }
+    }
+  }
+}

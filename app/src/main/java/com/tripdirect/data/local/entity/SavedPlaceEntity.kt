@@ -11,7 +11,8 @@ data class SavedPlaceEntity(
     val location: String,
     val rating: Float,
     val category: String,
-    val photoUrl: String? = null
+    val imageUrl: String? = null,
+    val destination: String = "Ooty"
 ) {
     fun toDomainModel(): SavedPlace {
         return SavedPlace(
@@ -20,7 +21,8 @@ data class SavedPlaceEntity(
             location = location,
             rating = rating,
             category = category,
-            photoUrl = photoUrl
+            imageUrl = imageUrl,
+            destination = destination
         )
     }
 
@@ -32,7 +34,8 @@ data class SavedPlaceEntity(
                 location = model.location,
                 rating = model.rating,
                 category = model.category,
-                photoUrl = model.photoUrl
+                imageUrl = model.imageUrl,
+                destination = model.destination
             )
         }
     }

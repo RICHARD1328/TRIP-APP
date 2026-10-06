@@ -12,11 +12,17 @@ interface EmergencyContactDao {
     @Query("SELECT * FROM emergency_contacts ORDER BY name ASC")
     suspend fun getEmergencyContactsList(): List<EmergencyContactEntity>
 
+    @Query("SELECT * FROM emergency_contacts WHERE id = :id LIMIT 1")
+    suspend fun getEmergencyContactById(id: String): EmergencyContactEntity?
+
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertEmergencyContact(contact: EmergencyContactEntity)
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertEmergencyContacts(contacts: List<EmergencyContactEntity>)
+
+    @Update
+    suspend fun updateEmergencyContact(contact: EmergencyContactEntity)
 
     @Query("DELETE FROM emergency_contacts WHERE id = :id")
     suspend fun deleteEmergencyContact(id: String)

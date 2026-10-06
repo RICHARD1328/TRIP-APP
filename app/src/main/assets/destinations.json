@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "ooty",
+    "name": "Ooty",
+    "officialName": "Udhagamandalam / Ootacamund",
+    "tagline": "Queen of the Nilgiris",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "region": "Nilgiris",
+    "rating": 4.5,
+    "category": "Hill Station",
+    "description": "Ooty is a scenic hill destination in the Nilgiris of Tamil Nadu, known for its cool climate, tea estates, gardens, lakes and mountain scenery.",
+    "estimatedDailyBudget": "₹2,000–₹4,000/day",
+    "weather": "18°C • Mild & Pleasant",
+    "latitude": 11.4102,
+    "longitude": 76.695,
+    "googleSearchQuery": "Ooty Tamil Nadu India",
+    "fallbackImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ooty_Emerald_Lake.jpg",
+    "popularAttractions": [
+      {
+        "id": "att_ooty_1",
+        "name": "Ooty Lake",
+        "category": "Boating",
+        "rating": 4.4,
+        "description": "Artificial lake built in 1824 offering paddle and motor boat rides.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600&auto=format&fit=crop",
+        "latitude": 11.4086,
+        "longitude": 76.6896
+      },
+      {
+        "id": "att_ooty_2",
+        "name": "Government Botanical Garden",
+        "category": "Nature",
+        "rating": 4.5,
+        "description": "Lush 55-acre garden featuring rare trees, exotic plants and a fossilized tree trunk.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?q=80&w=600&auto=format&fit=crop",
+        "latitude": 11.4162,
+        "longitude": 76.7118
+      },
+      {
+        "id": "att_ooty_3",
+        "name": "Doddabetta Peak",
+        "category": "Viewpoint",
+        "rating": 4.6,
+        "description": "Highest peak in the Nilgiri Hills at 2,637 meters offering panoramic valley views.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600&auto=format&fit=crop",
+        "latitude": 11.4011,
+        "longitude": 76.736
+      },
+      {
+        "id": "att_ooty_4",
+        "name": "Rose Garden",
+        "category": "Flora",
+        "rating": 4.5,
+        "description": "Landscaped garden boasting thousands of varieties of roses across terraced hillsides.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1496062031456-07b8f162a322?q=80&w=600&auto=format&fit=crop",
+        "latitude": 11.4072,
+        "longitude": 76.7153
+      },
+      {
+        "id": "att_ooty_5",
+        "name": "Nilgiri Mountain Railway",
+        "category": "Heritage Train",
+        "rating": 4.8,
+        "description": "UNESCO World Heritage toy train running through tunnels and wooden bridges.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+        "latitude": 11.407,
+        "longitude": 76.702
+      },
+      {
+        "id": "att_ooty_6",
+        "name": "Tea Factory and Museum",
+        "category": "Culture",
+        "rating": 4.4,
+        "description": "Learn the step-by-step process of tea leaves processing with fresh tea tasting.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?q=80&w=600&auto=format&fit=crop",
+        "latitude": 11.423,
+        "longitude": 76.728
+      }
+    ],
+    "hotels": [
+      {
+        "id": "h1",
+        "name": "Savoy - IHCL SeleQtions",
+        "rating": 4.6,
+        "priceInfo": "Prices vary — check current availability",
+        "distance": "1.5 km from Town Center",
+        "facilities": [
+          "Free Wi-Fi",
+          "Heritage Bar",
+          "Spa",
+          "Garden View"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "h2",
+        "name": "Sterling Ooty Fern Hill",
+        "rating": 4.4,
+        "priceInfo": "Prices vary — check current availability",
+        "distance": "2.8 km from Ooty Lake",
+        "facilities": [
+          "Mountain View",
+          "Restaurant",
+          "Games Room"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "h3",
+        "name": "Sinclairs Retreat Ooty",
+        "rating": 4.3,
+        "priceInfo": "Prices vary — check current availability",
+        "distance": "3.1 km from Botanical Garden",
+        "facilities": [
+          "Valley View",
+          "Free Parking",
+          "Buffet"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "transportInfo": {
+      "railway": "Nearest broad gauge railway station is Mettupalayam (40 km). Connects via Nilgiri Mountain Railway toy train.",
+      "airport": "Coimbatore International Airport (CJB) is approximately 88 km away.",
+      "bus": "Frequent government and private buses run from Bengaluru, Mysuru, Coimbatore, and Chennai.",
+      "road": "Well connected via NH181. Picturesque drive through 36 hairpin bends via Kallatty route or Coonoor route."
+    },
+    "localTransport": [
+      {
+        "mode": "Auto Rickshaw",
+        "priceNote": "Metered or negotiated rate. Typical short trips ₹100–₹250."
+      },
+      {
+        "mode": "Taxi / Cab",
+        "priceNote": "Daily sightseeing cabs typical ₹1,800–₹3,000 per day."
+      },
+      {
+        "mode": "Rental Scooter",
+        "priceNote": "Available in town from ₹500–₹800/day."
+      }
+    ],
+    "bestTime": [
+      {
+        "season": "🌤 Pleasant Season",
+        "months": "October to March",
+        "description": "Cool and comfortable weather ideal for sightseeing."
+      },
+      {
+        "season": "🌸 Summer Season",
+        "months": "April to June",
+        "description": "Popular flower show season and escape from summer heat."
+      },
+      {
+        "season": "🌧 Monsoon Season",
+        "months": "July to September",
+        "description": "Heavy misty rainfall across tea hills; quiet season."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "category": "🌿 Nature",
+        "title": "Tea Garden Walk",
+        "description": "Stroll through rolling green tea estates in Coonoor and Ooty."
+      },
+      {
+        "category": "🏞 Sightseeing",
+        "title": "Nilgiri Toy Train Ride",
+        "description": "Ride the historic steam-operated toy train through tunnels."
+      },
+      {
+        "category": "🍴 Food",
+        "title": "Handmade Chocolate Tasting",
+        "description": "Sample freshly made homemade dark and milk chocolates."
+      },
+      {
+        "category": "📸 Photography",
+        "title": "Doddabetta Sunset",
+        "description": "Capture the golden hour over misty Blue Mountains."
+      }
+    ],
+    "localFood": [
+      {
+        "dishName": "Ooty Homemade Chocolates",
+        "description": "Rich artisanal chocolates flavored with nuts, rum, and berries.",
+        "type": "Local Speciality"
+      },
+      {
+        "dishName": "Nilgiri Fresh Tea",
+        "description": "Fragrant high-altitude hill tea direct from local tea factories.",
+        "type": "Local Speciality"
+      },
+      {
+        "dishName": "Varkey (Ooty Bakery Snack)",
+        "description": "Crispy, flaky traditional hill baked pastry snack.",
+        "type": "Local Speciality"
+      }
+    ],
+    "safetyInformation": "Ooty is generally safe for tourists. Exercise caution on winding hill roads, especially in foggy condition. Keep warm clothing handy during night hours.",
+    "reviews": [
+      {
+        "author": "Anita S.",
+        "rating": 4.5,
+        "text": "The view from Doddabetta was incredible! The weather in November was crisp and fresh.",
+        "date": "2 weeks ago"
+      },
+      {
+        "author": "Rahul M.",
+        "rating": 5,
+        "text": "Riding the Nilgiri toy train was a highlight for our family. Highly recommend booking in advance.",
+        "date": "1 month ago"
+      }
+    ],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "munnar",
+    "name": "Munnar",
+    "officialName": "Munnar Hill Station",
+    "tagline": "Green Heaven of Western Ghats",
+    "state": "Kerala",
+    "country": "India",
+    "region": "Idukki",
+    "rating": 4.7,
+    "category": "Hill Station",
+    "description": "Munnar is a tranquil hill town in Idukki district of Kerala, celebrated for its sprawling tea plantations, misty valleys, waterfalls, and rare Nilgiri Tahr wildlife.",
+    "estimatedDailyBudget": "₹2,500–₹4,500/day",
+    "weather": "19°C • Cool & Misty",
+    "latitude": 10.0889,
+    "longitude": 77.0595,
+    "googleSearchQuery": "Munnar Kerala India",
+    "fallbackImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Munnar_-_Tea_Plantations.jpg/1280px-Munnar_-_Tea_Plantations.jpg",
+    "popularAttractions": [
+      {
+        "id": "att_munnar_1",
+        "name": "Eravikulam National Park",
+        "category": "Wildlife & Nature",
+        "rating": 4.7,
+        "description": "Home to endangered Nilgiri Tahr wild goats and blooming Neelakurinji flowers.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_munnar_2",
+        "name": "Mattupetty Dam",
+        "category": "Scenic Waterway",
+        "rating": 4.5,
+        "description": "Masonry dam nestled amidst tea gardens with speed boat rides and elephant sightings.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_munnar_3",
+        "name": "Tea Museum (KDHP)",
+        "category": "Heritage",
+        "rating": 4.6,
+        "description": "Historical tea museum depicting the growth of tea plantations in Munnar.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_munnar_4",
+        "name": "Top Station",
+        "category": "Viewpoint",
+        "rating": 4.8,
+        "description": "Panoramic mountain view on the Kerala-Tamil Nadu border looking down on Theni valley.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "hotels": [
+      {
+        "id": "hm1",
+        "name": "Blanket Hotel & Spa",
+        "rating": 4.8,
+        "priceInfo": "Prices vary — check current availability",
+        "distance": "Attukad Waterfall view",
+        "facilities": [
+          "Spa",
+          "Infinity Pool",
+          "Waterfall View"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "hm2",
+        "name": "Tea County Munnar",
+        "rating": 4.5,
+        "priceInfo": "Prices vary — check current availability",
+        "distance": "Munnar Town center",
+        "facilities": [
+          "Free Wi-Fi",
+          "Ayurvedic Massage",
+          "Garden"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "transportInfo": {
+      "railway": "Nearest railway stations are Ernakulam (120 km) and Aluva (110 km).",
+      "airport": "Cochin International Airport (COK) is 110 km away (approx. 3.5 hour scenic hill drive).",
+      "bus": "KSRTC buses connect Munnar directly from Kochi, Trivandrum, Madurai and Bengaluru.",
+      "road": "Scenic mountain highways (NH85) with tea garden vistas on all approaches."
+    },
+    "localTransport": [
+      {
+        "mode": "Auto",
+        "priceNote": "Short city rides ₹80–₹200."
+      },
+      {
+        "mode": "Cab / Jeep",
+        "priceNote": "Full day Munnar sightseeing cab ₹2,200–₹3,500."
+      }
+    ],
+    "bestTime": [
+      {
+        "season": "🌤 Peak Season",
+        "months": "September to May",
+        "description": "Chilly morning mist and clear sunny afternoons."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "category": "🌿 Nature",
+        "title": "Tea Plantation Trekking",
+        "description": "Walk along winding tea slopes guided by local naturalists."
+      },
+      {
+        "category": "🍴 Food",
+        "title": "Kerala Sadya Meal",
+        "description": "Traditional Kerala banana leaf feast with fresh cardamom tea."
+      }
+    ],
+    "localFood": [
+      {
+        "dishName": "Appam with Stew",
+        "description": "Fluffy rice pancakes served with aromatic coconut milk vegetable/chicken stew.",
+        "type": "Local Speciality"
+      },
+      {
+        "dishName": "Kerala Spiced Cardamom Tea",
+        "description": "Freshly brewed tea infused with local green cardamom.",
+        "type": "Local Speciality"
+      }
+    ],
+    "safetyInformation": "Drive carefully during monsoon landslides risk. Wildlife warnings apply near national park boundaries.",
+    "reviews": [
+      {
+        "author": "David P.",
+        "rating": 5,
+        "text": "Stunning green hill views! The tea museum and Eravikulam park are must visits.",
+        "date": "3 weeks ago"
+      }
+    ],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "kodaikanal",
+    "name": "Kodaikanal",
+    "officialName": "Kodaikanal Hill Station",
+    "tagline": "Princess of Hill Stations",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "region": "Dindigul",
+    "rating": 4.4,
+    "category": "Hill Station",
+    "description": "Kodaikanal is a serene hill station centered around a star-shaped lake, thick pine forests, cascading waterfalls and granite rock formations.",
+    "estimatedDailyBudget": "₹1,800–₹3,500/day",
+    "weather": "17°C • Cool Breeze",
+    "latitude": 10.2381,
+    "longitude": 77.4892,
+    "googleSearchQuery": "Kodaikanal Tamil Nadu India",
+    "fallbackImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kodaikanal_Lake_2.jpg/1280px-Kodaikanal_Lake_2.jpg",
+    "popularAttractions": [
+      {
+        "id": "att_kodai_1",
+        "name": "Kodaikanal Lake",
+        "category": "Boating",
+        "rating": 4.5,
+        "description": "Star-shaped man-made lake located right at the heart of town.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_kodai_2",
+        "name": "Coaker's Walk",
+        "category": "Walkway",
+        "rating": 4.6,
+        "description": "1-km mountain pedestrian path with valley views and haze effects.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_kodai_3",
+        "name": "Pine Forest",
+        "category": "Nature Trail",
+        "rating": 4.7,
+        "description": "Dense towering pine forest preserved since 1906, popular film shooting location.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_kodai_4",
+        "name": "Pillar Rocks",
+        "category": "Viewpoint",
+        "rating": 4.4,
+        "description": "Three vertical granite rock pillars standing 122 meters high.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "hotels": [
+      {
+        "id": "hk1",
+        "name": "The Carlton Kodaikanal",
+        "rating": 4.7,
+        "priceInfo": "Prices vary — check current availability",
+        "distance": "Overlooking Kodai Lake",
+        "facilities": [
+          "Lakefront",
+          "5 Star",
+          "Boating Access"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "transportInfo": {
+      "railway": "Nearest station is Kodai Road (80 km).",
+      "airport": "Madurai Airport (IXM) is 120 km away.",
+      "bus": "Direct buses from Chennai, Bengaluru, Madurai and Coimbatore.",
+      "road": "Scenic mountain ghat road from Batlagundu or Palani."
+    },
+    "localTransport": [
+      {
+        "mode": "Bicycle rental",
+        "priceNote": "Popular around Kodai lake loop line for ₹100/hr."
+      },
+      {
+        "mode": "Cab",
+        "priceNote": "Local sightseeing tourist taxi package ₹1,800/day."
+      }
+    ],
+    "bestTime": [
+      {
+        "season": "🌤 Best Season",
+        "months": "September to May",
+        "description": "Pleasant weather with clear lake reflections."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "category": "🌿 Nature",
+        "title": "Cycling around Lake",
+        "description": "Rent a bicycle and ride around the 5 km lake circuit."
+      }
+    ],
+    "localFood": [
+      {
+        "dishName": "Kodai Cheese & Butter",
+        "description": "Handcrafted artisanal hill cheese produced by local dairy farms.",
+        "type": "Local Speciality"
+      }
+    ],
+    "safetyInformation": "Watch step around steep cliff viewpoints. Beware of monkeys around public parks.",
+    "reviews": [
+      {
+        "author": "Priya K.",
+        "rating": 4.5,
+        "text": "The pine forest walk felt surreal in early morning fog!",
+        "date": "1 month ago"
+      }
+    ],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "goa",
+    "name": "Goa",
+    "officialName": "State of Goa",
+    "tagline": "Sun, Sand & Portuguese Heritage",
+    "state": "Goa",
+    "country": "India",
+    "region": "Konkan Coast",
+    "rating": 4.8,
+    "category": "Beach & Coastline",
+    "description": "Goa is India's coastal paradise, famous for pristine sandy beaches, Portuguese architecture, vibrant nightlife, spice plantations, and seafood cuisine.",
+    "estimatedDailyBudget": "₹3,000–₹7,000/day",
+    "weather": "28°C • Warm & Tropical",
+    "latitude": 15.2993,
+    "longitude": 74.124,
+    "googleSearchQuery": "Goa India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [
+      {
+        "id": "att_goa_1",
+        "name": "Baga Beach",
+        "category": "Beach & Water Sports",
+        "rating": 4.7,
+        "description": "Vibrant beach famous for water sports, beach shacks, and night parties.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_goa_2",
+        "name": "Fort Aguada",
+        "category": "Heritage Monument",
+        "rating": 4.6,
+        "description": "17th-century Portuguese fort and lighthouse with views over Sinquerim beach.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_goa_3",
+        "name": "Basilica of Bom Jesus",
+        "category": "UNESCO Site",
+        "rating": 4.8,
+        "description": "World Heritage Church housing the sacred relics of St. Francis Xavier.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_goa_4",
+        "name": "Dudhsagar Waterfalls",
+        "category": "Nature Adventure",
+        "rating": 4.7,
+        "description": "Four-tiered waterfall on the Mandovi river resembling milk pouring down cliffs.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "hotels": [
+      {
+        "id": "hg1",
+        "name": "Taj Exotica Resort & Spa Goa",
+        "rating": 4.8,
+        "priceInfo": "Prices vary — check current availability",
+        "distance": "Benaulim Beach Front",
+        "facilities": [
+          "Private Beach",
+          "Pool",
+          "Spa"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "transportInfo": {
+      "railway": "Major railway stations are Madgaon (MAO) and Thivim (THVM).",
+      "airport": "Dabolim Airport (GOI) and Manohar International Airport Mopa (GOX).",
+      "bus": "KSRTC, Kadamba and private sleeper buses run from Mumbai, Pune, Bengaluru.",
+      "road": "Coastal highway scenic routes (NH66)."
+    },
+    "localTransport": [
+      {
+        "mode": "Scooter / Bike Rental",
+        "priceNote": "Most popular choice, ₹350–₹600 per day."
+      },
+      {
+        "mode": "Goa Miles Taxi",
+        "priceNote": "App-based and prepaid taxi counters at airport/stations."
+      }
+    ],
+    "bestTime": [
+      {
+        "season": "☀️ Peak Beach Season",
+        "months": "November to February",
+        "description": "Clear blue skies, dry weather and sea festivities."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "category": "🏄 Adventure",
+        "title": "Water Sports",
+        "description": "Try parasailing, jet skiing, and banana boat rides at Calangute."
+      },
+      {
+        "category": "🍴 Food",
+        "title": "Sunset Beach Shack Dining",
+        "description": "Enjoy fresh grilled red snapper with local Goan feni."
+      }
+    ],
+    "localFood": [
+      {
+        "dishName": "Goan Fish Curry Rice",
+        "description": "Tangy and spicy coconut curry dish infused with Kokum and fresh catch.",
+        "type": "Local Speciality"
+      },
+      {
+        "dishName": "Bebinca",
+        "description": "Traditional multi-layered Goan coconut milk dessert cake.",
+        "type": "Local Speciality"
+      }
+    ],
+    "safetyInformation": "Follow beach safety flags and lifesaver guidelines before swimming in ocean currents.",
+    "reviews": [
+      {
+        "author": "Carlos R.",
+        "rating": 5,
+        "text": "Unmatched sunset views at Anjuna and historic charm in Panjim Fontainhas!",
+        "date": "2 weeks ago"
+      }
+    ],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "jaipur",
+    "name": "Jaipur",
+    "officialName": "Pink City",
+    "tagline": "The Royal Pink City",
+    "state": "Rajasthan",
+    "country": "India",
+    "region": "Marwar",
+    "rating": 4.6,
+    "category": "Heritage Architecture",
+    "description": "Jaipur is the royal capital of Rajasthan, famous for its terracotta-pink fortresses, grand palaces like Hawa Mahal and Amber Fort, vibrant bazaars, and rich Rajput legacy.",
+    "estimatedDailyBudget": "₹2,500–₹5,500/day",
+    "weather": "26°C • Sunny",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "googleSearchQuery": "Jaipur Rajasthan India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [
+      {
+        "id": "att_jaipur_1",
+        "name": "Hawa Mahal",
+        "category": "Palace of Winds",
+        "rating": 4.7,
+        "description": "Iconic five-story pink sandstone palace with 953 intricate honeycomb windows.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_jaipur_2",
+        "name": "Amber Fort",
+        "category": "Hill Fortress",
+        "rating": 4.8,
+        "description": "Majestic hilltop fort featuring Sheesh Mahal mirror palace overlooking Maota Lake.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_jaipur_3",
+        "name": "City Palace",
+        "category": "Royal Residence",
+        "rating": 4.6,
+        "description": "Grand palace complex combining Rajput and Mughal court architecture.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "att_jaipur_4",
+        "name": "Jantar Mantar",
+        "category": "UNESCO Observatory",
+        "rating": 4.7,
+        "description": "Historic astronomical observatory featuring the world's largest stone sundial.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "hotels": [
+      {
+        "id": "hj1",
+        "name": "Rambagh Palace Jaipur",
+        "rating": 4.9,
+        "priceInfo": "Prices vary — check current availability",
+        "distance": "Former Royal Residence",
+        "facilities": [
+          "5 Star Heritage",
+          "Pool",
+          "Royal Gardens"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "transportInfo": {
+      "railway": "Jaipur Junction (JP) connects directly to Delhi, Mumbai, Kolkata, Ahmedabad.",
+      "airport": "Jaipur International Airport (JAI) located in Sanganer (13 km).",
+      "bus": "RSRTC buses run frequently from Delhi ISBT Kashmere Gate.",
+      "road": "Delhi-Jaipur Expressway (NH48) approx 4-5 hours."
+    },
+    "localTransport": [
+      {
+        "mode": "E-Rickshaw / Auto",
+        "priceNote": "Convenient for narrow Pink City market streets."
+      },
+      {
+        "mode": "Jaipur Metro",
+        "priceNote": "Connects Mansarovar to Badi Chaupar near Hawa Mahal."
+      }
+    ],
+    "bestTime": [
+      {
+        "season": "🏰 Royal Season",
+        "months": "October to March",
+        "description": "Pleasant weather ideal for exploring forts without summer heat."
+      }
+    ],
+    "thingsToDo": [
+      {
+        "category": "🛍 Shopping",
+        "title": "Bapu Bazaar Handicrafts",
+        "description": "Shop for traditional Jaipuri quilts, Mojari shoes, and silver jewelry."
+      }
+    ],
+    "localFood": [
+      {
+        "dishName": "Dal Baati Churma",
+        "description": "Authentic Rajasthani baked wheat ball served with lentils and pure ghee churma.",
+        "type": "Local Speciality"
+      },
+      {
+        "dishName": "Pyaaz Kachori",
+        "description": "Crispy deep-fried pastry stuffed with spicy onion filling.",
+        "type": "Local Speciality"
+      }
+    ],
+    "safetyInformation": "Keep belongings safe in crowded bazaar corridors. Confirm auto rates before starting rides.",
+    "reviews": [
+      {
+        "author": "Vikram S.",
+        "rating": 5,
+        "text": "Amber fort light show at dusk is unforgettable!",
+        "date": "2 weeks ago"
+      }
+    ],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "manali",
+    "name": "Manali",
+    "officialName": "Manali Himachal",
+    "tagline": "Valley of the Gods",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "region": "Kullu Valley",
+    "rating": 4.6,
+    "category": "Mountains & Snow",
+    "description": "Manali is a high-altitude Himalayan resort town known for snow sports in Solang Valley, Rohtang Pass views, old cedar wood temples, and pine valley treks.",
+    "estimatedDailyBudget": "₹2,500–₹5,000/day",
+    "weather": "12°C • Cool & Refreshing",
+    "latitude": 32.2432,
+    "longitude": 77.1892,
+    "googleSearchQuery": "Manali Himachal Pradesh India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [
+      {
+        "id": "att_manali_1",
+        "name": "Hadimba Devi Temple",
+        "category": "Historical",
+        "rating": 4.6,
+        "description": "16th-century wooden pagoda cave temple in dense pine forests.",
+        "ticketPriceStatus": "Free entry",
+        "imageUrl": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?w=800&q=80"
+      },
+      {
+        "id": "att_manali_2",
+        "name": "Solang Valley",
+        "category": "Adventure",
+        "rating": 4.7,
+        "description": "World-famous adventure valley for paragliding, zorbing, and winter skiing.",
+        "ticketPriceStatus": "Free entry",
+        "imageUrl": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80"
+      },
+      {
+        "id": "att_manali_3",
+        "name": "Rohtang Pass",
+        "category": "Adventure",
+        "rating": 4.8,
+        "description": "High mountain pass at 3,978m elevation on Pir Panjal Range.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&q=80"
+      }
+    ],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "Chandigarh (310 km)",
+      "airport": "Kullu Bhuntar Airport (50 km)",
+      "bus": "Frequent Volvo buses from Delhi & Chandigarh",
+      "road": "NH21 scenic Beas river drive"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Check Rohtang pass permits in advance during peak snow season.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "coorg",
+    "name": "Coorg",
+    "officialName": "Kodagu",
+    "tagline": "Scotland of India",
+    "state": "Karnataka",
+    "country": "India",
+    "region": "Western Ghats",
+    "rating": 4.4,
+    "category": "Coffee Hills",
+    "description": "Coorg is famous for lush coffee plantations, misty green hills, Abbey Falls, elephant camps, and authentic Kodava culture.",
+    "estimatedDailyBudget": "₹2,000–₹4,000/day",
+    "weather": "20°C • Mild",
+    "latitude": 12.4244,
+    "longitude": 75.7382,
+    "googleSearchQuery": "Coorg Karnataka India",
+    "fallbackImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ABBEY_FALLS_%2CCOORG_%2CKARNATAKA.jpg/1280px-ABBEY_FALLS_%2CCOORG_%2CKARNATAKA.jpg",
+    "popularAttractions": [
+      {
+        "id": "att_coorg_1",
+        "name": "Abbey Falls",
+        "category": "Nature",
+        "rating": 4.5,
+        "description": "Cascading waterfall amidst coffee plantations viewed from hanging bridge.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&q=80"
+      },
+      {
+        "id": "att_coorg_2",
+        "name": "Raja's Seat",
+        "category": "Nature",
+        "rating": 4.5,
+        "description": "Sunset viewpoint in Madikeri with manicured flower gardens.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80"
+      },
+      {
+        "id": "att_coorg_3",
+        "name": "Dubare Elephant Camp",
+        "category": "Adventure",
+        "rating": 4.4,
+        "description": "Elephant camp on Kaveri riverbank offering bathing and feeding experiences.",
+        "ticketPriceStatus": "Check current price",
+        "imageUrl": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=800&q=80"
+      }
+    ],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "Mysuru (120 km)",
+      "airport": "Kannur Airport (90 km) / Mysuru (120 km)",
+      "bus": "Buses from Bengaluru & Mysuru",
+      "road": "SH88 highway drive"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Drive cautiously on forest curves, especially during heavy monsoon rains.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "alleppey",
+    "name": "Alleppey",
+    "officialName": "Alappuzha",
+    "tagline": "Venice of the East",
+    "state": "Kerala",
+    "country": "India",
+    "region": "Backwaters",
+    "rating": 4.7,
+    "category": "Backwaters",
+    "description": "Alleppey is famous for serene palm-fringed backwater canals, traditional houseboat cruises, Punnamada Lake, and paddy field vistas.",
+    "estimatedDailyBudget": "₹2,500–₹6,000/day",
+    "weather": "27°C • Humid Tropical",
+    "latitude": 9.4981,
+    "longitude": 76.3388,
+    "googleSearchQuery": "Alleppey Kerala India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "Alappuzha Railway Station (ALLP)",
+      "airport": "Cochin International Airport (85 km)",
+      "bus": "Direct buses from Kochi and Trivandrum",
+      "road": "AC Canal roads"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Only hire licensed houseboat operators with valid safety jackets.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "darjeeling",
+    "name": "Darjeeling",
+    "officialName": "Queen of the Hills",
+    "tagline": "Queen of the Hills",
+    "state": "West Bengal",
+    "country": "India",
+    "region": "Himalayas",
+    "rating": 4.5,
+    "category": "Hill Station",
+    "description": "Darjeeling is world-renowned for its aromatic tea gardens, views of Kanchenjunga peak, Toy Train heritage railway, and vibrant Buddhist monasteries.",
+    "estimatedDailyBudget": "₹2,000–₹4,500/day",
+    "weather": "14°C • Cool",
+    "latitude": 27.041,
+    "longitude": 88.2663,
+    "googleSearchQuery": "Darjeeling West Bengal India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "New Jalpaiguri (NJP 70 km)",
+      "airport": "Bagdogra Airport (IXB 75 km)",
+      "bus": "Shared Jeeps and buses from Siliguri",
+      "road": "Hill Cart Road"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Early morning trip to Tiger Hill requires warm layers.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "wayanad",
+    "name": "Wayanad",
+    "officialName": "Green Paradise",
+    "tagline": "Green Paradise of Kerala",
+    "state": "Kerala",
+    "country": "India",
+    "region": "Western Ghats",
+    "rating": 4.5,
+    "category": "Nature & Wildlife",
+    "description": "Wayanad features prehistoric Edakkal Caves, spice plantations, Banasura Sagar Dam, and wild elephant sanctuaries.",
+    "estimatedDailyBudget": "₹2,000–₹4,000/day",
+    "weather": "21°C • Refreshing",
+    "latitude": 11.6854,
+    "longitude": 76.132,
+    "googleSearchQuery": "Wayanad Kerala India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "Kozhikode (110 km)",
+      "airport": "Calicut International Airport (100 km)",
+      "bus": "Buses from Kozhikode, Mysuru & Bengaluru",
+      "road": "Thamarassery Ghat Pass"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Avoid night driving through forest corridors.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "pondicherry",
+    "name": "Pondicherry",
+    "officialName": "Puducherry",
+    "tagline": "French Riviera of the East",
+    "state": "Puducherry",
+    "country": "India",
+    "region": "Coromandel Coast",
+    "rating": 4.5,
+    "category": "Coastal & Heritage",
+    "description": "Pondicherry is famous for mustard-yellow French Quarter villas, promenade beach walks, Sri Aurobindo Ashram, and experimental city Auroville.",
+    "estimatedDailyBudget": "₹2,000–₹4,500/day",
+    "weather": "28°C • Coastal Breeze",
+    "latitude": 11.9416,
+    "longitude": 79.8083,
+    "googleSearchQuery": "Pondicherry Puducherry India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "Puducherry Station (PDY)",
+      "airport": "Chennai Airport (135 km)",
+      "bus": "Frequent buses from Chennai ECR",
+      "road": "East Coast Road drive"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Rent bicycles or scooters to easily navigate White Town lanes.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "agra",
+    "name": "Agra",
+    "officialName": "City of Taj",
+    "tagline": "City of the Taj Mahal",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "region": "Braj",
+    "rating": 4.8,
+    "category": "World Wonder Heritage",
+    "description": "Agra is home to the world-famous Taj Mahal, Agra Fort, and Fatehpur Sikri, standing as testament to Mughal architectural magnificence.",
+    "estimatedDailyBudget": "₹2,000–₹5,000/day",
+    "weather": "25°C • Sunny",
+    "latitude": 27.1767,
+    "longitude": 78.0081,
+    "googleSearchQuery": "Agra Uttar Pradesh India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "Agra Cantt (AGC)",
+      "airport": "Delhi IGI Airport (200 km)",
+      "bus": "Superfast Express trains & Yamuna Expressway buses",
+      "road": "Yamuna Expressway (2.5 hrs from Delhi)"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Purchase Taj Mahal tickets online to skip monument queues.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "delhi",
+    "name": "Delhi",
+    "officialName": "National Capital Territory of Delhi",
+    "tagline": "Heart of India",
+    "state": "Delhi",
+    "country": "India",
+    "region": "North India",
+    "rating": 4.6,
+    "category": "Metropolis & Heritage",
+    "description": "Delhi seamlessly blends millennia of history with modern sprawl, featuring the Red Fort, Qutub Minar, India Gate, and iconic street food bazaars.",
+    "estimatedDailyBudget": "₹2,500–₹6,000/day",
+    "weather": "24°C • Pleasant",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "googleSearchQuery": "Delhi India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1587474260584-136574528ed5?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "New Delhi (NDLS), Old Delhi (DLI), Hazrat Nizamuddin",
+      "airport": "Indira Gandhi International Airport (DEL)",
+      "bus": "Interstate Bus Terminals (ISBT)",
+      "road": "Delhi Metro world-class network"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Use Delhi Metro for fast transit across city hubs.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "mumbai",
+    "name": "Mumbai",
+    "officialName": "Bombay",
+    "tagline": "City of Dreams",
+    "state": "Maharashtra",
+    "country": "India",
+    "region": "Konkan Coast",
+    "rating": 4.7,
+    "category": "Metropolis & Seafront",
+    "description": "Mumbai is India's financial and entertainment capital, famous for Gateway of India, Marine Drive Queen's Necklace, Bollywood studios, and street food.",
+    "estimatedDailyBudget": "₹3,000–₹8,000/day",
+    "weather": "29°C • Tropical",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "googleSearchQuery": "Mumbai Maharashtra India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "CSMT & Mumbai Central",
+      "airport": "Chhatrapati Shivaji Maharaj Airport (BOM)",
+      "bus": "MSRTC & Volvo buses",
+      "road": "Mumbai Suburban Rail & Coastal Road"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Plan local train commutes outside peak rush hours.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "chennai",
+    "name": "Chennai",
+    "officialName": "Madras",
+    "tagline": "Cultural Gateway of South India",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "region": "Coromandel Coast",
+    "rating": 4.4,
+    "category": "Culture & Coast",
+    "description": "Chennai is known for Marina Beach, ancient Dravidian temples in Mylapore, classical Carnatic music, and South Indian filter coffee.",
+    "estimatedDailyBudget": "₹2,000–₹5,000/day",
+    "weather": "30°C • Warm",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "googleSearchQuery": "Chennai Tamil Nadu India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "Chennai Central (MAS) & Egmore",
+      "airport": "Chennai International Airport (MAA)",
+      "bus": "CMBT Bus Station Koyambedu",
+      "road": "Metro & Suburban Train"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Stay hydrated when visiting coastal temples during daytime.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "hyderabad",
+    "name": "Hyderabad",
+    "officialName": "City of Pearls",
+    "tagline": "City of Pearls & Biryani",
+    "state": "Telangana",
+    "country": "India",
+    "region": "Deccan",
+    "rating": 4.6,
+    "category": "Heritage & IT Hub",
+    "description": "Hyderabad is famous for Charminar, Golconda Fort, world-renowned Hyderabadi Dum Biryani, pearl markets, and HITEC City technology center.",
+    "estimatedDailyBudget": "₹2,000–₹5,000/day",
+    "weather": "27°C • Clear",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "googleSearchQuery": "Hyderabad Telangana India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1572445271230-a78b5944a659?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "Secunderabad (SC) & Hyderabad Deccan (HYB)",
+      "airport": "Rajiv Gandhi International Airport (HYD)",
+      "bus": "TSRTC buses",
+      "road": "Hyderabad Metro Rail"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Explore Old City bazaars near Charminar with a local guide.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "bengaluru",
+    "name": "Bengaluru",
+    "officialName": "Bangalore",
+    "tagline": "Garden City & Silicon Valley of India",
+    "state": "Karnataka",
+    "country": "India",
+    "region": "Deccan Plateau",
+    "rating": 4.5,
+    "category": "Metropolis & Parks",
+    "description": "Bengaluru is famed for pleasant climate, Cubbon Park, Lalbagh Botanical Garden, historic palaces, craft breweries, and tech innovation.",
+    "estimatedDailyBudget": "₹2,500–₹6,000/day",
+    "weather": "23°C • Moderate & Pleasant",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "googleSearchQuery": "Bengaluru Karnataka India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "KSR Bengaluru (SBC) & Yesvantpur",
+      "airport": "Kempegowda International Airport (BLR)",
+      "bus": "BMTC Vayu Vajra airport buses",
+      "road": "Namma Metro network"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Account for peak hour traffic when heading to the airport.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  },
+  {
+    "id": "kochi",
+    "name": "Kochi",
+    "officialName": "Cochin",
+    "tagline": "Queen of the Arabian Sea",
+    "state": "Kerala",
+    "country": "India",
+    "region": "Malabar Coast",
+    "rating": 4.6,
+    "category": "Coastal Port & Heritage",
+    "description": "Kochi is a historic port city celebrated for Chinese fishing nets, Fort Kochi heritage, Mattancherry Spice Market, and Water Metro boats.",
+    "estimatedDailyBudget": "₹2,000–₹5,000/day",
+    "weather": "28°C • Coastal Breeze",
+    "latitude": 9.9312,
+    "longitude": 76.2673,
+    "googleSearchQuery": "Kochi Kerala India",
+    "fallbackImageUrl": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=1200&auto=format&fit=crop",
+    "popularAttractions": [],
+    "hotels": [],
+    "transportInfo": {
+      "railway": "Ernakulam Junction (ERS) & Town (ERN)",
+      "airport": "Cochin International Airport (COK)",
+      "bus": "KSRTC buses",
+      "road": "Kochi Metro & Kochi Water Metro"
+    },
+    "localTransport": [],
+    "bestTime": [],
+    "thingsToDo": [],
+    "localFood": [],
+    "safetyInformation": "Take the scenic Water Metro boat ride connecting islands.",
+    "reviews": [],
+    "costBreakdown": {
+      "transport": 2500,
+      "hotel": 3000,
+      "food": 1500,
+      "localTransport": 1000,
+      "activities": 500
+    },
+    "socialContent": []
+  }
+]
